@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339785043757",
+    "firebase_url": "https://chatdemo-4cec6.firebaseio.com",
+    "project_id": "chatdemo-4cec6",
+    "storage_bucket": "chatdemo-4cec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339785043757:android:c7211ff2737a7955",
+        "android_client_info": {
+          "package_name": "star.lut.com.flutterchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339785043757-44e7aj37oai2sjbdl6vnmprfepp5nrgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowElBnESCk0gXrQMujhGOaL3662zi_mA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
