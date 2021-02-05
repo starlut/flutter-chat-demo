@@ -6,10 +6,6 @@ import 'package:flutter_chat_demo/appModules/login/presenter/authState.dart';
 import 'package:flutter_chat_demo/dataModels/dbModel/user.dart';
 import 'package:flutter_chat_demo/db/dbHelper.dart';
 
-void main() => runApp(new MaterialApp(
-      home: new LoginScreen(),
-    ));
-
 class LoginScreen extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
